@@ -16,4 +16,4 @@ The software is provided "as is", without warranty of any kind, expressed or imp
 
 **Version:** v0.1, *16 May, 2017*
 
-**License:** https://github.com/dansmithedu/BPL/
+**License:** [BPL](https://github.com/dansmithedu/BPL/)
